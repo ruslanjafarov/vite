@@ -1,6 +1,6 @@
 <p align="center"><img src="https://vitejs.dev/logo.svg" height="100"/></p>
 <h1 align="center">Vite</h1>
-Default config for Front-End. Before using u need to download <a href="https://nodejs.org/">NodeJS</a>
+Default config for Front-End. Before using u need to download <a href="https://nodejs.org/" target="_blank">NodeJS</a>
 
 
 ## 🔥 How to use
